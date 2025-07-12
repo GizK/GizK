@@ -69,7 +69,7 @@ An object-oriented Python app for building & exploring family trees.
 | RESTful APIs    | Responsive UI  | CI/CD (GitHub Actions)   | Bash Scripting         |
 | Microservices   |                | Linux CLI & Automation   |                        |
 
-🌱 *Currently learning:* JavaScript, Assembly Language, Linux SysAdmin, Advanced Algorithms and R. 
+🌱 *Currently learning:* JavaScript, Assembly Language, Linux, Advanced Algorithms and R. 
 
 ---
 
