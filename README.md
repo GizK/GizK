@@ -76,7 +76,7 @@ An object-oriented Python app for building & exploring family trees.
 ## 💬 Let’s Connect!
 I love meeting passionate people in tech 🌸 Whether it’s to collaborate, mentor, or brainstorm cool ideas:  
 
-🌐 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/gizem-k-a325632a2/))   
+🌐 [LinkedIn]([https://linkedin.com/in/gizem-k-a325632a2/]) 
 📧 gizemkumrili05@gmail.com 
 
 ---
