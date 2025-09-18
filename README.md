@@ -58,7 +58,8 @@ An object-oriented Python app for building & exploring family trees.
 - 🏅 **Oracle – Generative AI** 
 - 📖 **freeCodeCamp – Machine Learning with Python**  
 - ⚡ **Accenture Technology Foundations**  
-- 🚀 **Accenture Introduction to Tech**  
+- 🚀 **Accenture Introduction to Tech**
+- 🏅 **Electronic Arts Software Engineer Job Simulation**
 
 ---
 
