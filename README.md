@@ -23,6 +23,8 @@ I love meeting passionate people in tech 🌸 Whether it’s to collaborate, men
 
 📧 gizemkumrili05@gmail.com 
 
+🎥 Youtube: GizTech
+
 ---
 
 <div align="center">
