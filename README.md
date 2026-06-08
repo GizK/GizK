@@ -1,4 +1,4 @@
-#Hello, I’m Gizem!✨
+Hello, I’m Gizem!✨
 > *“The pinnacle of hard work with a flame for tech that never stops burning.”* 🔥
 
  Welcome to my corner of GitHub! I’m a Computer Science & Artificial Intelligence student at University of Greenwich with a passion for turning **creative ideas** into **impactful tech solutions**!
