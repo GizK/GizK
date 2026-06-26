@@ -21,7 +21,7 @@ I love meeting passionate people in tech, whether it’s to collaborate, mentor,
 
 🌐 LinkedIn:  https://linkedin.com/in/gizem-k-a325632a2/
 
-📧 gizemkumrili05@gmail.com 
+📧 computersciencewithmystery@gmail.com
 
 🎥 Youtube: [GizTech](https://www.youtube.com/@Giz_Tech)
 
